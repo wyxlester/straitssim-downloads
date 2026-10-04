@@ -1,16 +1,16 @@
-﻿# StraitSim for Windows
+# StraitsSim for Windows
 
 Pilot ships through the Singapore Strait, with live traffic, chart, radar, passage planning and review.
 
-**[Download the Windows installer](https://github.com/wyxlester/straitsim-downloads/releases/latest/download/StraitSim-Setup-Windows-x64.exe)**
+**[Download the Windows installer](https://github.com/wyxlester/straitssim-downloads/releases/latest/download/StraitsSim-Setup-Windows-x64.exe)**
 
-[Release details and checksum](https://github.com/wyxlester/straitsim-downloads/releases/latest)
+[Release details and checksum](https://github.com/wyxlester/straitssim-downloads/releases/latest)
 
 ## Install and play
 
-1. Download `StraitSim-Setup-Windows-x64.exe` (approximately 1.04 GB).
-2. Run the installer. It installs StraitSim for your Windows user and creates Start-menu and desktop shortcuts.
-3. Double-click **StraitSim** to play. No Unreal Editor, Git, terminal, or separate Python installation is required.
+1. Download `StraitsSim-Setup-Windows-x64.exe` (approximately 1.04 GB).
+2. Run the installer. It installs StraitsSim for your Windows user and creates Start-menu and desktop shortcuts.
+3. Double-click **StraitsSim** to play. No Unreal Editor, Git, terminal, or separate Python installation is required.
 
 The application uses about 2.12 GB after installation. Allow 10 GB free space for download, setup and saves. Saves and logs are stored under `%LOCALAPPDATA%\StraitSim`; uninstalling preserves them.
 
